@@ -1,3 +1,7 @@
+// binary_search_tree.h
+// Hossein Niyazi
+// Jan 2019
+
 #ifndef BINARY_SEARCH_TREE_H
 #define BINARY_SEARCH_TREE_H
 
