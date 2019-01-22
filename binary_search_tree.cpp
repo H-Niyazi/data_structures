@@ -1,3 +1,7 @@
+// binary_search_tree.cpp
+// Hossein Niyazi
+// Jan 2019
+
 #include <iostream>
 #include "binary_search_tree.h"
 
